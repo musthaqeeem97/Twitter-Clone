@@ -1,0 +1,16 @@
+
+.sidebar-menu__brand{
+    height: 50px;
+   
+}
+.sidebar-menu__brand:hover{
+    border-radius: 25px;
+    background-color: rgba(29, 161, 242,0.1);
+    cursor: pointer;
+}
+
+.brand{
+    height: 28px;
+    filter: invert(45%) sepia(50%) saturate(1724%) hue-rotate(180deg) brightness(101%) contrast(88%);
+    padding: 12px;
+}

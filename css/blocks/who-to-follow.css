@@ -1,0 +1,47 @@
+.who-to-follow{
+   border-radius:15px;
+   background-color: #F7F9F9;
+} 
+
+.who-to-follow__block{
+    padding:15px;
+    display:flex;
+    align-items:center;
+ } 
+ .who-to-follow__block:hover{
+    background: rgba(0,0,0,0.1);
+ } 
+ .who-to-follow__logo{
+   width:49px;
+   height:49px;
+   border-radius: 50px;
+   margin-right: 10px; 
+ } 
+.who-to-follow__content{
+ display: flex;
+ width: 150px;
+ align-items: center;
+ 
+ }
+ .who-to-follow__heading{
+    font-size:20px;
+    font-weight:bold;
+    color:#0F1419;
+ }
+ .who-to-follow__author-name{
+    font-size:15px;
+    font-weight:700;
+ }
+.who-to-follow__button{
+    background-color: #0F1419;
+    color:white;
+    font-size: 15px;
+    font-weight: 700;
+    border-radius: 15px;
+    padding: 5px;
+    min-width: 67px;
+    text-align: center;
+    
+
+
+}
